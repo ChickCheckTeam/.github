@@ -1,7 +1,7 @@
 # ChickCheck : Chicken Disease Detection Application
 
 <p align="center">
-<img src="https://github.com/ChickCheckTeam/.github/assets/157220791/012cd136-26c4-4cdf-ae36-16ef58e2c035" width=50% height=50% >
+<img src="https://github.com/ChickCheckTeam/.github/assets/157220791/012cd136-26c4-4cdf-ae36-16ef58e2c035" width=30% height=30% >
 </p>
 
 ## About
