@@ -2,8 +2,9 @@
 
 <p align="center">
 <!-- <img src="https://github.com/ChickCheckTeam/.github/assets/157220791/012cd136-26c4-4cdf-ae36-16ef58e2c035" width=30% height=30% > -->
-  <img src="https://github.com/ChickCheckTeam/.github/assets/114111567/14ef3586-89e4-421b-8caa-5c87100309bb">
+  <img src="https://github.com/ChickCheckTeam/.github/assets/114111567/553dedb7-e4d7-457a-8df2-551d700d5dcf">
 </p>
+
 
 
 ## About
