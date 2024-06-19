@@ -22,6 +22,18 @@ The chicken farming business is a highly promising venture, given the high deman
 | Mobile Development | A298D4KY4174 | Komang Harry Sudana | Universitas Pendidikan Ganesha |
 | Mobile Development | A298D4KY4199 | Putu Adi Sastrawan | Universitas Pendidikan Ganesha |
 
+## Installation Guide
+1. Download apk file [here](https://github.com/ChickCheckTeam/ChickCheck-MD/releases)
+2. Make sure your phone settings "Installation from another source" is enabled
+3. Click install on apk file
+
+## Using The Application
+1. Log in to the app. If you don't have an account, you can create one by clicking register.
+2. On the Home Screen, you can view your recent scan history.
+3. To scan an image, click the scan button and then click the camera button to take a picture.
+4. The Machine Learning model will process the picture, and you will be redirected to the Detail Screen.
+5. To log out, click the profile button on the Home Screen and then click the logout button.
+
 <!--
 
 **Here are some ideas to get you started:**
